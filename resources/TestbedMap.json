@@ -1,0 +1,550 @@
+{
+  "id": "b5ffe963-b58a-4391-8570-6b6e07a55665",
+  "name": "ASIST 2020 Initial Testbed Area Map",
+  "areas": [
+    {
+      "id": "aw",
+      "name": "Waiting Room",
+      "type": "room",
+      "x1": -2188.7,
+      "y1": 174.3,
+      "x2": -2182.3,
+      "y2": 180.7
+    },
+    {
+      "id": "as",
+      "name": "Stairwell Starting Point",
+      "type": "stairwell",
+      "x1": -2166.7,
+      "y1": 173.29073,
+      "x2": -2153.289,
+      "y2": 181.7
+    },
+    {
+      "id": "achl",
+      "name": "Center Hallway Lobby",
+      "type": "hallway",
+      "x1": -2151.7,
+      "y1": 172.3,
+      "x2": -2140.1404,
+      "y2": 177.7
+    },
+    {
+      "id": "ach",
+      "name": "Center Hallway",
+      "type": "hallway",
+      "x1": -2139.571,
+      "y1": 174.3,
+      "x2": -2108.3,
+      "y2": 177.7
+    },
+    {
+      "id": "awb",
+      "name": "Women's Bathroom",
+      "type": "bathroom",
+      "x1": -2149.7,
+      "y1": 159.3,
+      "x2": -2146.3,
+      "y2": 170.7
+    },
+    {
+      "id": "amb",
+      "name": "Men's Bathroom",
+      "type": "bathroom",
+      "x1": -2144.7,
+      "y1": 159.3,
+      "x2": -2141.3,
+      "y2": 170.7
+    },
+    {
+      "id": "ae2",
+      "name": "Elevator 2",
+      "type": "elevator",
+      "x1": -2148.7,
+      "y1": 179.27821,
+      "x2": -2147.3,
+      "y2": 182.7
+    },
+    {
+      "id": "ae1",
+      "name": "Elevator 1",
+      "type": "elevator",
+      "x1": -2145.7,
+      "y1": 179.2756,
+      "x2": -2144.3,
+      "y2": 182.7
+    },
+    {
+      "id": "alha",
+      "name": "Left Hallway",
+      "type": "hallway",
+      "x1": -2139.7,
+      "y1": 156.96628,
+      "x2": -2136.3,
+      "y2": 173.68864
+    },
+    {
+      "id": "alhb",
+      "name": "Left Hallway",
+      "type": "hallway",
+      "x1": -2139.7,
+      "y1": 153.3,
+      "x2": -2108.3,
+      "y2": 156.7
+    },
+    {
+      "id": "arha",
+      "name": "Right Hallway",
+      "type": "hallway",
+      "x1": -2139.7,
+      "y1": 178.15,
+      "x2": -2136.3,
+      "y2": 194.94315
+    },
+    {
+      "id": "arhb",
+      "name": "Right Hallway",
+      "type": "hallway",
+      "x1": -2139.7,
+      "y1": 195.3,
+      "x2": -2108.3,
+      "y2": 198.7
+    },
+    {
+      "id": "ajc",
+      "name": "Janitor's Closet",
+      "type": "room",
+      "x1": -2134.7,
+      "y1": 166.3,
+      "x2": -2133.3,
+      "y2": 171.7
+    },
+    {
+      "id": "ar201",
+      "name": "Room 201",
+      "type": "room",
+      "x1": -2134.7,
+      "y1": 158.3,
+      "x2": -2129.3,
+      "y2": 164.7
+    },
+    {
+      "id": "ar203",
+      "name": "Room 203",
+      "type": "room",
+      "x1": -2127.7,
+      "y1": 158.3,
+      "x2": -2123.3,
+      "y2": 164.7
+    },
+    {
+      "id": "ar205",
+      "name": "Room 205",
+      "type": "room",
+      "x1": -2121.7,
+      "y1": 158.35489,
+      "x2": -2117.3,
+      "y2": 164.7
+    },
+    {
+      "id": "ar207",
+      "name": "Room 207",
+      "type": "room",
+      "x1": -2115.7,
+      "y1": 158.3,
+      "x2": -2108.2217,
+      "y2": 164.7
+    },
+    {
+      "id": "ar208",
+      "name": "Room 208",
+      "type": "room",
+      "x1": -2131.7,
+      "y1": 166.3,
+      "x2": -2116.3,
+      "y2": 172.7
+    },
+    {
+      "id": "ar210",
+      "name": "Room 210",
+      "type": "room",
+      "x1": -2114.7,
+      "y1": 166.3,
+      "x2": -2107.8625,
+      "y2": 172.7
+    },
+    {
+      "id": "ar209",
+      "name": "Room 209",
+      "type": "room",
+      "x1": -2134.7,
+      "y1": 179.3,
+      "x2": -2130.3,
+      "y2": 185.7
+    },
+    {
+      "id": "ar211",
+      "name": "Room 211",
+      "type": "room",
+      "x1": -2128.7,
+      "y1": 179.3,
+      "x2": -2124.3,
+      "y2": 185.7
+    },
+    {
+      "id": "ar215",
+      "name": "Room 215",
+      "type": "room",
+      "x1": -2114.7,
+      "y1": 179.3,
+      "x2": -2108.2644,
+      "y2": 185.7
+    },
+    {
+      "id": "ar216",
+      "name": "Room 216",
+      "type": "room",
+      "x1": -2134.7,
+      "y1": 187.3,
+      "x2": -2123.3,
+      "y2": 193.7
+    },
+    {
+      "id": "ar218",
+      "name": "Room 218",
+      "type": "room",
+      "x1": -2121.7,
+      "y1": 187.3,
+      "x2": -2116.3,
+      "y2": 193.7
+    },
+    {
+      "id": "ar213",
+      "name": "Room 213",
+      "type": "room",
+      "x1": -2122.7,
+      "y1": 180.3,
+      "x2": -2116.3,
+      "y2": 185.7
+    },
+    {
+      "id": "ar220",
+      "name": "Room 220",
+      "type": "room",
+      "x1": -2114.7,
+      "y1": 187.3,
+      "x2": -2108.3,
+      "y2": 193.7
+    }
+  ],
+  "connections": [
+    {
+      "id": "csl",
+      "name": "Lobby Double Door",
+      "type": "double_door",
+      "x": -2152.7036,
+      "y": 175.3,
+      "x2": -2152.3337,
+      "y2": 176.7,
+      "area_1": "as",
+      "area_2": "achl"
+    },
+    {
+      "id": "clc",
+      "name": "Lobby to Center Hallway",
+      "type": "extension",
+      "x": -2140.2537,
+      "y": 174.3,
+      "x2": -2139.8457,
+      "y2": 177.7,
+      "area_1": "achl",
+      "area_2": "ach"
+    },
+    {
+      "id": "cwb",
+      "name": "Opening to Women's Bathroom",
+      "type": "opening",
+      "x": -2148.7,
+      "y": 171.04915,
+      "x2": -2148.3,
+      "y2": 171.94563,
+      "area_1": "achl",
+      "area_2": "awb"
+    },
+    {
+      "id": "cmb",
+      "name": "Opening to Men's Bathroom",
+      "type": "opening",
+      "x": -2142.6987,
+      "y": 171.16411,
+      "x2": -2142.3,
+      "y2": 171.80257,
+      "area_1": "achl",
+      "area_2": "amb"
+    },
+    {
+      "id": "ce2",
+      "name": "Elevator 2 Door",
+      "type": "elevator_door",
+      "x": -2148.7,
+      "y": 178.07928,
+      "x2": -2148.3018,
+      "y2": 178.6944,
+      "area_1": "achl",
+      "area_2": "ae2"
+    },
+    {
+      "id": "ce1",
+      "name": "Elevator 1 Door",
+      "type": "elevator_door",
+      "x": -2144.7,
+      "y": 178.2177,
+      "x2": -2144.3,
+      "y2": 178.6944,
+      "area_1": "achl",
+      "area_2": "ae1"
+    },
+    {
+      "id": "ccl",
+      "name": "Center to Left Hallway",
+      "type": "extension",
+      "x": -2139.6865,
+      "y": 173.3351,
+      "x2": -2136.3,
+      "y2": 173.8723,
+      "area_1": "ach",
+      "area_2": "alha"
+    },
+    {
+      "id": "cllb",
+      "name": "Extention of Left Hallway",
+      "type": "extension",
+      "x": -2139.7,
+      "y": 156.85545,
+      "x2": -2136.3,
+      "y2": 157.08426,
+      "area_1": "alha",
+      "area_2": "alhb"
+    },
+    {
+      "id": "ccr",
+      "name": "Center to Right Hallway",
+      "type": "extension",
+      "x": -2139.7,
+      "y": 178.11102,
+      "x2": -2136.3,
+      "y2": 178.41505,
+      "area_1": "ach",
+      "area_2": "arha"
+    },
+    {
+      "id": "crrb",
+      "name": "Extention of Right Hallway",
+      "type": "extension",
+      "x": -2139.7,
+      "y": 194.69392,
+      "x2": -2136.36,
+      "y2": 194.94315,
+      "area_1": "arha",
+      "area_2": "arhb"
+    },
+    {
+      "id": "cjc",
+      "name": "Door to Janitor's Closet",
+      "type": "door",
+      "x": -2135.8142,
+      "y": 170.4875,
+      "x2": -2135.2102,
+      "y2": 170.69615,
+      "area_1": "alha",
+      "area_2": "ajc"
+    },
+    {
+      "id": "cr201",
+      "name": "Door to Room 201",
+      "type": "door",
+      "x": -2135.762,
+      "y": 162.3,
+      "x2": -2135.3433,
+      "y2": 162.5125,
+      "area_1": "alha",
+      "area_2": "ar201"
+    },
+    {
+      "id": "cr203",
+      "name": "Door to Room 203",
+      "type": "door",
+      "x": -2126.5125,
+      "y": 157.1348,
+      "x2": -2126.3,
+      "y2": 157.7,
+      "area_1": "alhb",
+      "area_2": "ar203"
+    },
+    {
+      "id": "cr205",
+      "name": "Door to Room 205",
+      "type": "door",
+      "x": -2120.7,
+      "y": 157.1898,
+      "x2": -2120.4875,
+      "y2": 157.78342,
+      "area_1": "alhb",
+      "area_2": "ar205"
+    },
+    {
+      "id": "cr207",
+      "name": "Door to Room 207",
+      "type": "door",
+      "x": -2111.699,
+      "y": 157.14867,
+      "x2": -2111.4897,
+      "y2": 157.83958,
+      "area_1": "alhb",
+      "area_2": "ar207"
+    },
+    {
+      "id": "co207-210",
+      "name": "Opening between Rooms 207 and 210",
+      "type": "opening",
+      "x": -2112.5764,
+      "y": 165.15686,
+      "x2": -2110.3,
+      "y2": 165.7,
+      "area_1": "ar207",
+      "area_2": "ar210"
+    },
+    {
+      "id": "cr208a",
+      "name": "Door a to Room 208",
+      "type": "door",
+      "x": -2127.7,
+      "y": 173.22302,
+      "x2": -2127.4875,
+      "y2": 173.92032,
+      "area_1": "ach",
+      "area_2": "ar208"
+    },
+    {
+      "id": "cr208b",
+      "name": "Door b to Room 208",
+      "type": "door",
+      "x": -2118.6982,
+      "y": 173.19662,
+      "x2": -2118.4875,
+      "y2": 173.9113,
+      "area_1": "ach",
+      "area_2": "ar208"
+    },
+    {
+      "id": "cr210",
+      "name": "Door to Room 210",
+      "type": "door",
+      "x": -2112.5105,
+      "y": 173.10263,
+      "x2": -2112.3,
+      "y2": 173.81294,
+      "area_1": "ach",
+      "area_2": "ar210"
+    },
+    {
+      "id": "cr209",
+      "name": "Door to Room 209",
+      "type": "door",
+      "x": -2131.5125,
+      "y": 178.1007,
+      "x2": -2131.3,
+      "y2": 178.69283,
+      "area_1": "ach",
+      "area_2": "ar209"
+    },
+    {
+      "id": "cr211",
+      "name": "Door to Room 211",
+      "type": "door",
+      "x": -2127.5125,
+      "y": 178.10284,
+      "x2": -2127.3,
+      "y2": 178.86548,
+      "area_1": "ach",
+      "area_2": "ar211"
+    },
+    {
+      "id": "cr215",
+      "name": "Door to Room 215",
+      "type": "door",
+      "x": -2110.6995,
+      "y": 178.19649,
+      "x2": -2110.4875,
+      "y2": 178.76271,
+      "area_1": "ach",
+      "area_2": "ar215"
+    },
+    {
+      "id": "cr216a",
+      "name": "Door a to Room 216",
+      "type": "door",
+      "x": -2133.7,
+      "y": 194.3,
+      "x2": -2133.4875,
+      "y2": 194.94489,
+      "area_1": "arhb",
+      "area_2": "ar216"
+    },
+    {
+      "id": "cr216b",
+      "name": "Door b to Room 216",
+      "type": "door",
+      "x": -2124.5125,
+      "y": 194.20787,
+      "x2": -2124.3,
+      "y2": 194.76266,
+      "area_1": "arhb",
+      "area_2": "ar216"
+    },
+    {
+      "id": "cr218",
+      "name": "Door to Room 218",
+      "type": "door",
+      "x": -2119.5125,
+      "y": 194.29019,
+      "x2": -2119.3,
+      "y2": 194.78554,
+      "area_1": "arhb",
+      "area_2": "ar218"
+    },
+    {
+      "id": "cd213-218",
+      "name": "Door between Rooms 213 and 218",
+      "type": "door",
+      "x": -2117.5125,
+      "y": 186.23836,
+      "x2": -2117.3,
+      "y2": 186.81519,
+      "area_1": "ar213",
+      "area_2": "ar218"
+    },
+    {
+      "id": "cd215-220",
+      "name": "Door between Rooms 215 and 220",
+      "type": "door",
+      "x": -2112.5125,
+      "y": 186.2375,
+      "x2": -2112.3,
+      "y2": 186.87604,
+      "area_1": "ar215",
+      "area_2": "ar220"
+    },
+    {
+      "id": "cr220",
+      "name": "Door to Room 220",
+      "type": "door",
+      "x": -2112.5115,
+      "y": 194.18413,
+      "x2": -2112.301,
+      "y2": 194.89633,
+      "area_1": "arhb",
+      "area_2": "ar220"
+    }
+  ]
+}

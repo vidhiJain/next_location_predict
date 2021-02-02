@@ -1,0 +1,26 @@
+1 2 {'id': 'csl', 'name': 'Lobby Double Door', 'type': 'double_door', 'x': -2152.7036, 'y': 175.3, 'x2': -2152.3337, 'y2': 176.7, 'area_1': 'as', 'area_2': 'achl'}
+2 4 {'id': 'cwb', 'name': "Opening to Women's Bathroom", 'type': 'opening', 'x': -2148.7, 'y': 171.04915, 'x2': -2148.3, 'y2': 171.94563, 'area_1': 'achl', 'area_2': 'awb'}
+2 5 {'id': 'cmb', 'name': "Opening to Men's Bathroom", 'type': 'opening', 'x': -2142.6987, 'y': 171.16411, 'x2': -2142.3, 'y2': 171.80257, 'area_1': 'achl', 'area_2': 'amb'}
+2 6 {'id': 'ce2', 'name': 'Elevator 2 Door', 'type': 'elevator_door', 'x': -2148.7, 'y': 178.07928, 'x2': -2148.3018, 'y2': 178.6944, 'area_1': 'achl', 'area_2': 'ae2'}
+2 7 {'id': 'ce1', 'name': 'Elevator 1 Door', 'type': 'elevator_door', 'x': -2144.7, 'y': 178.2177, 'x2': -2144.3, 'y2': 178.6944, 'area_1': 'achl', 'area_2': 'ae1'}
+8 9 {'id': 'cllb', 'name': 'Extention of Left Hallway', 'type': 'extension', 'x': -2139.7, 'y': 156.85545, 'x2': -2136.3, 'y2': 157.08426, 'area_1': 'alha', 'area_2': 'alhb'}
+8 12 {'id': 'cjc', 'name': "Door to Janitor's Closet", 'type': 'door', 'x': -2135.8142, 'y': 170.4875, 'x2': -2135.2102, 'y2': 170.69615, 'area_1': 'alha', 'area_2': 'ajc'}
+8 13 {'id': 'cr201', 'name': 'Door to Room 201', 'type': 'door', 'x': -2135.762, 'y': 162.3, 'x2': -2135.3433, 'y2': 162.5125, 'area_1': 'alha', 'area_2': 'ar201'}
+9 14 {'id': 'cr203', 'name': 'Door to Room 203', 'type': 'door', 'x': -2126.5125, 'y': 157.1348, 'x2': -2126.3, 'y2': 157.7, 'area_1': 'alhb', 'area_2': 'ar203'}
+9 15 {'id': 'cr205', 'name': 'Door to Room 205', 'type': 'door', 'x': -2120.7, 'y': 157.1898, 'x2': -2120.4875, 'y2': 157.78342, 'area_1': 'alhb', 'area_2': 'ar205'}
+9 16 {'id': 'cr207', 'name': 'Door to Room 207', 'type': 'door', 'x': -2111.699, 'y': 157.14867, 'x2': -2111.4897, 'y2': 157.83958, 'area_1': 'alhb', 'area_2': 'ar207'}
+10 11 {'id': 'crrb', 'name': 'Extention of Right Hallway', 'type': 'extension', 'x': -2139.7, 'y': 194.69392, 'x2': -2136.36, 'y2': 194.94315, 'area_1': 'arha', 'area_2': 'arhb'}
+11 22 {'id': 'cr216b', 'name': 'Door b to Room 216', 'type': 'door', 'x': -2124.5125, 'y': 194.20787, 'x2': -2124.3, 'y2': 194.76266, 'area_1': 'arhb', 'area_2': 'ar216'}
+11 23 {'id': 'cr218', 'name': 'Door to Room 218', 'type': 'door', 'x': -2119.5125, 'y': 194.29019, 'x2': -2119.3, 'y2': 194.78554, 'area_1': 'arhb', 'area_2': 'ar218'}
+11 25 {'id': 'cr220', 'name': 'Door to Room 220', 'type': 'door', 'x': -2112.5115, 'y': 194.18413, 'x2': -2112.301, 'y2': 194.89633, 'area_1': 'arhb', 'area_2': 'ar220'}
+12 26 {}
+13 14 {}
+14 17 {}
+17 26 {}
+17 27 {}
+18 27 {}
+19 22 {}
+19 26 {}
+20 26 {}
+21 27 {}
+23 24 {'id': 'cd213-218', 'name': 'Door between Rooms 213 and 218', 'type': 'door', 'x': -2117.5125, 'y': 186.23836, 'x2': -2117.3, 'y2': 186.81519, 'area_1': 'ar213', 'area_2': 'ar218'}
